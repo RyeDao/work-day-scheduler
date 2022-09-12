@@ -40,8 +40,8 @@ THEN the saved events persist
 
 3. Pictures of work day scheduler 9PM shown as 3PM, 10PM shown as 4pm and 11PM shown as 5pm. (With test codes time 2145H)
 
-<img src=".a" title="First image">
+<img src="assets/images/image2.png" title="First image">
 Shows event for time blocks color coded.
 
-<img src="./assets/images/image2.png" title="Second image">
+<img src="assets/images/image2.png" title="Second image">
 Shows inputs saved in local storage.

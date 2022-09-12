@@ -1,4 +1,5 @@
 # work-day-scheduler
+Deployment link : 
 
 A simple work day scheduler. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
@@ -40,8 +41,8 @@ THEN the saved events persist
 
 3. Pictures of work day scheduler 9PM shown as 3PM, 10PM shown as 4pm and 11PM shown as 5pm. (With test codes time 2145H)
 
-<img src=".Develop/assets/images/image1.png" title="First image">
+<img src=".assets/images/image1.png" title="First image">
 Shows event for time blocks color coded.
 
-<img src=".Develop/assets/images/image2.png" title="Second image">
+<img src=".assets/images/image2.png" title="Second image">
 Shows inputs saved in local storage.
